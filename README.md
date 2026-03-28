@@ -1,33 +1,33 @@
 # NIYIBIZI Prince
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+E-commerce+%7C+Logistics;Building+real-world+intelligent+systems;From+Rwanda+to+global+impact;Curiosity+drives+everything" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+E-commerce+%7C+Logistics;Building+intelligent+systems;Optimized+for+Rwanda+to;Curiosity+drives+everything" />
 </p>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 **Just curious about:**
 
-- 🤖 AI / Machine Learning  
-- 🛒 E-commerce Systems  
-- 🚚 Logistics & Optimization  
-- 🧮 Mathematical Thinking  
+- AI / Machine Learning  
+- E-commerce Systems  
+- Logistics & Optimization  
+- Mathematical Thinking  
 
 I build things I wish existed and have deployed multiple systems with real users.
 
 ---
 
-## 🔥 Current Focus
+## Current Focus
 
 - Building a smart multi-vendor e-commerce marketplace  
 
 ---
 
-## 🧪 Featured Projects
+## Featured Projects
 
-### 🛍️ ML Product Recommendation System
+### ML Product Recommendation System
 - Collaborative / hybrid recommendation system  
 - Built using real user interaction data  
 - Focus: improving conversions & personalization  
@@ -35,7 +35,7 @@ I build things I wish existed and have deployed multiple systems with real users
 
 ---
 
-### 🌍 Natural Language Search (Kinyarwanda + English) ⭐
+### Natural Language Search (Kinyarwanda + English) ⭐
 - Multilingual search system (low-resource language problem)  
 - Handles mixed Kinyarwanda-English queries  
 - TF-IDF / embeddings approach  
@@ -43,7 +43,7 @@ I build things I wish existed and have deployed multiple systems with real users
 
 ---
 
-### 🚚 Logistics & Route Optimization
+### Logistics & Route Optimization
 - Graph algorithms on real road networks (OpenStreetMap)  
 - Solving routing problems using optimization techniques  
 
@@ -68,7 +68,7 @@ Inspired by:
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/niyibizimadeit/niyibizimadeit/output/github-contribution-grid-snake.svg" />
