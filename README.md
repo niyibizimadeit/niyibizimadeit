@@ -61,7 +61,7 @@ Inspired by:
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=niyibizimadeit&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niyibizimadeit&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=niyibizimadeit&theme=tokyonight" /> </p>
 
 ---
 
