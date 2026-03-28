@@ -1,35 +1,37 @@
-🚀 NIYIBIZI Prince
-"Just curious."
+NIYIBIZI Prince
+
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+E-commerce+%7C+Logistics;Building+real-world+intelligent+systems;From+Rwanda+to+global+impact;Curiosity+drives+everything" /> </p>
+
 🧠 About Me
 
-I’m a student building real-world intelligent systems at the intersection of:
+just curious about:
 
 🤖 AI / Machine Learning
 🛒 E-commerce Systems
 🚚 Logistics & Optimization
 🧮 Mathematical Thinking
 
-Systems with real users.
 
-I build things I wish existed.
 
-🔥 Current Focus
+I build things I wish existed and have deployed Systems with real users..
+
+Current Focus
 Building a smart multi-vendor e-commerce marketplace
 
 🧪 Featured Projects
 
-🛍️ ML Product Recommendation System
+ML Product Recommendation System
 Collaborative / hybrid recommendation system
 Built using real user interaction data
 Focus: improving conversions & personalization
 Inspired by Netflix Prize & recommender systems research
-🌍 Natural Language Search (Kinyarwanda + English) ⭐
+Natural Language Search (Kinyarwanda + English) ⭐
 
 Multilingual search system (low-resource language problem)
 Handles mixed Kinyarwanda-English queries
 TF-IDF / embeddings approach
 Unique global research angle (rare + high impact)
+
 <b>Logistics & Route Optimization<b>
 Graph algorithms on real road networks (OpenStreetMap)
 Solving routing problems using optimization techniques
