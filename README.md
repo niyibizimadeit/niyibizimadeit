@@ -1,7 +1,7 @@
 # NIYIBIZI Prince
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+E-commerce+%7C+Logistics;Building+intelligent+systems;Optimized+for+Rwanda+to;Curiosity+drives+everything" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+E-commerce+%7C+Logistics;Building+intelligent+systems;Optimized+for+Rwanda;Curiosity+drives+everything" />
 </p>
 
 ---
@@ -61,10 +61,7 @@ Inspired by:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niyibizimadeit&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niyibizimadeit&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=niyibizimadeit&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
 ---
 
@@ -76,13 +73,8 @@ Inspired by:
 
 ---
 
-## ⚡ Philosophy
 
-Curiosity → Build → Deploy → Learn → Repeat
-
----
-
-## 🚧 What’s Coming Next
+##  What’s Next
 
 - Real-time recommendation engine improvements  
 - AI-powered analytics dashboard for vendors  
