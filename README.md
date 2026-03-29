@@ -35,7 +35,7 @@ I build things I wish existed and have deployed multiple systems with real users
 
 ---
 
-### Natural Language Search (Kinyarwanda + English) ⭐
+### Natural Language Search (Kinyarwanda + English) 
 - Multilingual search system (low-resource language problem)  
 - Handles mixed Kinyarwanda-English queries  
 - TF-IDF / embeddings approach  
