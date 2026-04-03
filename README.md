@@ -59,7 +59,7 @@ Inspired by:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niyibizimadeit&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=niyibizimadeit&theme=tokyonight" /> </p>
 
@@ -74,9 +74,9 @@ Inspired by:
 ---
 
 
-##  What’s Next
+## What’s Next
 
-- Real-time recommendation engine improvements  
 - AI-powered analytics dashboard for vendors  
 - Advanced multilingual NLP (low-resource optimization)  
-- Smarter logistics engine for African markets  
+- Smarter logistics engine for African markets
+- Real-time recommendation engine improvements    
