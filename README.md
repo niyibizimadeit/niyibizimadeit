@@ -1,7 +1,7 @@
 # NIYIBIZI Prince
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=ML+%7C+E-commerce+%7C+Logistics;Building+intelligent+systems;Optimized+for+Rwanda;Curiosity+drives+everything" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=ML+%7C+E-commerce+%7C+Logistics;Building+intelligent+systems;Optimized+for+Rwanda;Curious" />
 </p>
 
 ---
