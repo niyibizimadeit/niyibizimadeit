@@ -65,14 +65,6 @@ Inspired by:
 
 ---
 
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/niyibizimadeit/niyibizimadeit/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 
 ## What’s Next
 
