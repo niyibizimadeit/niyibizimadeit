@@ -59,7 +59,6 @@ Inspired by:
 
 ---
 
-
 ## What’s Next
 
 - AI-powered analytics dashboard for vendors  
