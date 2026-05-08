@@ -13,7 +13,7 @@
 - Machine Learning  
 - E-commerce Systems  
 - Logistics & Optimization  
-- Mathematical Thinking  
+- Mathematics
 
 I build things I wish existed and have deployed multiple systems with real users.
 
